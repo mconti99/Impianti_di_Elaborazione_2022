@@ -1,0 +1,48 @@
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 0 observation nmail
+Slope:  0.0
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 0 observation byte_sent
+Slope:  -4.514783992985356
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 0 observation byte_rec
+Slope:  -4.563511753923477
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 1 observation nmail
+Slope:  -0.0005973715651135006
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 1 observation byte_sent
+Slope:  -34.06305208650625
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 1 observation byte_rec
+Slope:  -48.29360967184802
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 2 TIME LIN1_VmSize
+Slope:  0.03157224220623501
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 2 TIME LIN1_VmData
+Slope:  0.03157224220623501
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 2 TIME LIN1_RSS
+Slope:  0.004970760233918129
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 2 TIME LIN1_byte_letti_I_O
+Slope:  4.737578125
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 2 TIME LIN1_byte_letti_I_O1
+Slope:  -0.03081421502474134
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 3 TIME LIN2_VmSize
+Slope:  0.0019128745423298214
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 3 TIME LIN2_VmData
+Slope:  0.0019128745423298214
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 3 TIME LIN2_RSS
+Slope:  0.0006324666198172874
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 3 TIME LIN2_byte_letti__sec
+Slope:  114.55350983796296
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 3 TIME LIN2_byte_scritti__sec
+Slope:  -0.48861262488646684
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 4 TIME LIN4_VmSize
+Slope:  0.021659324522760644
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 4 TIME LIN4_VmData
+Slope:  0.021659324522760644
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 4 TIME LIN4RSS
+Slope:  0.0034579439252336447
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 4 TIME LIN4_byte_letti__sec
+Slope:  -1.891048815359477
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 4 TIME LIN4_byte_scritti__sec
+Slope:  -0.5624644886363637
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 5 Ts Allocated_Heap
+Slope:  0.6911224682945296
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 6 Ts allocated_heap
+Slope:  0.6709499304572171
+PS C:\Users\itama\Desktop\Downloads> python sensprocedure.py .\HomeWork_Regression_2022.xls 7 Ts allocated_heap
+Slope:  2.9030932760062105

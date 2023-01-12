@@ -1,0 +1,39 @@
+Teoria delle Code:
+MM23, MG1, Tandem MM1, MM1, Mean Value Analysis
+-Rete M/M/1/3: come la disegni, come si calcola la probabilità di blocco
+- Esericizio rete aperta con coda M/D/1 (servente con tempo di servizio costante);
+-Mi ha poi condiviso una lavagna di Teams dove c'era disegnata una rete in cui c'era una coda M/M/1 la cui uscita andava in due diverse code M/M/1 (per intenderci, una two node tandem, ma con 3 code). Mi ha chiesto che tipo di rete fosse, come è possibile trovare il numero di utenti complessivo della rete.
+Liguori: 
+- domande varie sul secondo elaborato (come ho calcolato la devianza persa, la devianza intra-cluster e la devianza-totale);
+- Cos'è il clustering, quali sono le possibili metriche da usare per le distanze (Single Linkage, Complete Linkage, Average Linkage, Centroidi, Ward);
+- Teorema del limite centrale;
+- Design of Experiments: two factor experiments con e senza replicazioni;
+Perchè uso random controller?
+Perchè la knee è il miglior punto?
+Importanza vs significatività
+ANOVA
+Test di fisher
+Come calcolo gradi di libert di un fattore
+Qual è l'obiettivo del clustering
+Se aumento cluster come cambia dev intra e dev inter? aumenta inter
+Perchè faccio ripetizioni esperimenti?
+Cosa è il Capacity Test?
+Che vuol dire caratterizzare workload?
+Cosa è la PCA?Quando non ha senso farla?
+Come verifico che workload sintetico sia rappresentativo di quello reale?
+T test e paired observation
+Cotroneo:
+Cos'è la ffda?
+-Perchè si fa la caratterizzazione di basso livello.
+-DOE in generale, perchè si fa il DOE, differenza tra importanza e significatività nel DOE, che cos'e ANOVA e spiegazione test di Fisher.
+- Differenza tra reliability e safety, soffermandosi sul perchè la safety è più costosa, collegandosi poi all'analisi degli hazard e a FMEA;
+- Modo alternativo per fare uno degli esercizi del 4 elaborato;
+-Elaborato FFDA in generale, cos'è la FFDA e le varie fasi
+-Reliability, come migliori la reliability di un sistema
+-Catena guasto-errore-fallimento
+perchè hai fatto questa cosa?
+- Osservazioni sul primo elaborato, su come ho ridotto gli effetti della cache, dimensione campionaria e intervalli di confidenza
+- Terzo elaborato, cosa abbiamo ottenuto col capacity test + considerazioni filosofiche su cosa sta succedendo in prossimità della knee capacity
+- Dati dei componenti in parallelo su un RBD, fallimenti esponenziali, MTTF dei componenti fissato a 100h, mission time fissato a 1000h, trovare il numero di blocchi tale da massimizzare la reliability
+
+
